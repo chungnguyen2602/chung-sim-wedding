@@ -1580,9 +1580,10 @@ header#inner-navigation {
 }
 
 #wd-banner .banner_caption_text p {
+    font-family: 'Shantell Sans', cursive;
     display: inline-block;
     font-size: 16px;
-    background: #ec2328;
+    background: #d378787a;
     color: #fff;
     font-weight: 600;
     padding: 12px 35px;
